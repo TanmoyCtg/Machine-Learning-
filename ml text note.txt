@@ -1,0 +1,63 @@
+Machine learing is a sub-field of AI.
+Learn from examples and experience.
+classifier think like a function.
+classifier takes some data as input and assigns a label to it output.
+
+supervised learning recipe
+
+collect training data
+train classifier
+Make prediction
+
+feature means columns 
+labels = output
+
+Train classifier we need a learning algorithm.
+fit means find patterns in data
+
+jokon test korabo tokon classifier a new example dibo.
+
+decision tree is a classifier.
+
+Goals
+1.Import dataset 
+2. Train a classifier
+3. Predict label for new flower
+4.visualize the tree.
+
+
+Pandas= primary tool
+DS use for exploring and manipulating data.
+
+import pandas as pd
+
+most important part of the pandas library is DataFrame.
+ DataFrame holds the type of data you might think of as a table. Like excel or
+Database.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
